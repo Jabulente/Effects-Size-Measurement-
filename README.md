@@ -27,3 +27,13 @@ Features
 ✔️ Statistical interpretation: Provides insights into the magnitude and significance of effects.
 ✔️ Customizable analysis: Works with different statistical models (ANOVA, correlation, t-tests).
 ✔️ Optimized for research and machine learning preprocessing.
+
+
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Jabulente/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=flat&logo=instagram)](https://instagram.com/Jabulente)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](+255 742508450)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/Jabulente)
+[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/Jabulente)
