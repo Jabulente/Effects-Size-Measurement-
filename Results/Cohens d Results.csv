@@ -1,0 +1,13 @@
+Column,Pair,Cohen's d,Interpretation,Explanation
+sepal length (cm),setosa vs versicolor,-2.104197253509822,Very large effect size,"The difference between the groups is very large, indicating a very strong effect."
+sepal length (cm),setosa vs virginica,-3.0772391640158805,Very large effect size,"The difference between the groups is very large, indicating a very strong effect."
+sepal length (cm),versicolor vs virginica,-1.12583305194396,Very large effect size,"The difference between the groups is very large, indicating a very strong effect."
+sepal width (cm),setosa vs versicolor,1.8909951696257195,Very large effect size,"The difference between the groups is very large, indicating a very strong effect."
+sepal width (cm),setosa vs virginica,1.2900698179261456,Very large effect size,"The difference between the groups is very large, indicating a very strong effect."
+sepal width (cm),versicolor vs virginica,-0.6411521500443637,Large effect size,"There is a large difference between the groups, with a strong effect."
+petal length (cm),setosa vs versicolor,-7.898543878307619,Very large effect size,"The difference between the groups is very large, indicating a very strong effect."
+petal length (cm),setosa vs virginica,-9.997237251419186,Very large effect size,"The difference between the groups is very large, indicating a very strong effect."
+petal length (cm),versicolor vs virginica,-2.520755888276997,Very large effect size,"The difference between the groups is very large, indicating a very strong effect."
+petal width (cm),setosa vs versicolor,-6.816068308715438,Very large effect size,"The difference between the groups is very large, indicating a very strong effect."
+petal width (cm),setosa vs virginica,-8.557159503923438,Very large effect size,"The difference between the groups is very large, indicating a very strong effect."
+petal width (cm),versicolor vs virginica,-2.925073409482029,Very large effect size,"The difference between the groups is very large, indicating a very strong effect."

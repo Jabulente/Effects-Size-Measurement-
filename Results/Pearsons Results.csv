@@ -1,0 +1,7 @@
+Variable 1,Variable 2,Pearson's r,P-value,Direction,Strength
+sepal length (cm),sepal width (cm),-0.1175697841330021,0.15189826071144746,Negative,Weak
+sepal length (cm),petal length (cm),0.8717537758865833,1.038667419449624e-47,Positive,Strong
+sepal length (cm),petal width (cm),0.8179411262715756,2.3254980797931594e-37,Positive,Strong
+sepal width (cm),petal length (cm),-0.4284401043305398,4.513314267272973e-08,Negative,Moderate
+sepal width (cm),petal width (cm),-0.3661259325364391,4.073228513246187e-06,Negative,Moderate
+petal length (cm),petal width (cm),0.9628654314027963,4.675003907324556e-86,Positive,Strong

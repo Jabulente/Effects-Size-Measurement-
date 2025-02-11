@@ -1,0 +1,5 @@
+Variables,Factor,Partial Eta-squared (ηp²),Interpretation
+sepal length (cm),species,0.618705730738489,Large effect size (≥ 14%)
+sepal width (cm),species,0.4007828470763329,Large effect size (≥ 14%)
+petal length (cm),species,0.941371719057368,Large effect size (≥ 14%)
+petal width (cm),species,0.928882930101213,Large effect size (≥ 14%)
